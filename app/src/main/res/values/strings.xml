@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Placement</string>
+    <string name="hello_android">¡Hello Android!</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGNUP</string>
+    <string name="forget_passsword">Did you forget your password?</string>
 </resources>
